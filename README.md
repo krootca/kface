@@ -33,7 +33,7 @@
 1-Primero descargamos el repositorio:
 
 ```bash
-git clone https://github.com/krootca/kface
+git clone https://github.com/krootca/kface.git
 ```
 
 2-Entramos dentro de la carpeta:
@@ -78,13 +78,13 @@ ngrok http <puerto>
 1-Descargar, instalar requerimientos e iniciar la aplicación:
 
 ```bash
-git clone https://github.com/krootca/kface && cd kface && pip3 install requirements.txt && python3 init.py
+git clone https://github.com/krootca/kface.git && cd kface && pip3 install requirements.txt && python3 init.py
 ```
 
 2-Descarcar e instalar requerimientos:
 
 ```bash
-git clone https://github.com/krootca/kface && cd kface && pip3 install requirements.txt
+git clone https://github.com/krootca/kface.git && cd kface && pip3 install requirements.txt
 ```
 
 
