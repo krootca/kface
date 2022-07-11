@@ -17,7 +17,7 @@
 <img src="https://avatars.githubusercontent.com/u/89755140?s=200&v=4" align="right"
      alt="King-Artorias Logo" width="110" height="110">
      
-### Uso legal: [![ADVERTENCIA](https://github.com/krootca/kface/blob/main/ADVERTENCIA.md)].
+### Uso legal: [[ADVERTENCIA](https://github.com/krootca/kface/blob/main/ADVERTENCIA.md)].
 <br>
 
 [![Last Updated](https://img.shields.io/github/issues/krootca/kface)](https://github.com/krootca/kface/commits/main)
